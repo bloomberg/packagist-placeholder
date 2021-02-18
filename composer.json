@@ -1,0 +1,12 @@
+{
+    "name": "bloomberg/placeholder",
+    "description": "A placeholder package to reserve the 'bloomberg' vendor prefix.",
+    "homepage": "https://github.com/bloomberg/packagist-placeholder",
+    "authors": [
+	{
+	    "name": "Bloomberg Open Source",
+	    "email": "opensource@bloomberg.net",
+	    "homepage": "https://techatbloomberg.com"
+	}
+    ]
+}
